@@ -1,0 +1,59 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl ct_urban.ct_urban_reference.smd.mesh_01
+Ka  0.2 0.2 0.2
+Kd  0.4 1.0 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.5
+illum 2
+map_Kd 23c2971d.png
+bump 23c2971d_n.png
+#
+newmtl ct_urban.ct_urban_reference.smd.mesh_02
+Ka  0.2 0.2 0.2
+Kd  0.4 1.0 0.5
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.5
+illum 2
+map_Kd d529bebf.png
+bump d529bebf_n.png
+#
+newmtl ct_urban.ct_urban_reference.smd.mesh_03
+Ka  0.2 0.2 0.2
+Kd  0.4 1.0 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.4
+illum 2
+map_Kd f96f91cf.png
+#
+newmtl ct_urban.ct_urban_reference.smd.mesh_04
+Ka  0.2 0.2 0.2
+Kd  0.8 0.9 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.6
+illum 2
+map_Kd 358d65eb.png
+#
+newmtl ct_urban.ct_urban_reference.smd.mesh_05
+Ka  0.2 0.2 0.2
+Kd  0.4 0.9 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.8
+illum 2
+map_Kd 47166b01.png
+#
+newmtl ct_urban.ct_urban_reference.smd.mesh_06
+Ka  0.2 0.2 0.2
+Kd  0.4 1.0 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.7
+illum 2
+map_Kd 98781a7b.png
+#
+# EOF

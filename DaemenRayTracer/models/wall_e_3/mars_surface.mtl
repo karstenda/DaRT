@@ -1,0 +1,12 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 11.01.2012 01:00:14
+
+newmtl 01___Default
+	Ns 10.0000
+	Ni 1.5000
+	Ka 0.1500 0.1500 0.1500
+	Kd 0.882 0.8882 0.8882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka mars.jpg 5
+	map_Kd mars.jpg 5

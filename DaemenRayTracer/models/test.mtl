@@ -1,0 +1,8 @@
+newmtl floor
+Ka  0.4 1.0 0.7
+Kd  0.4 1.0 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.5
+illum 2
+map_Kd floor.jpg

@@ -1,0 +1,95 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 04.01.2012 23:49:52
+
+newmtl Default
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3500 0.3500 0.3500
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.7070 0.7070 0.7070
+	Ke 0.0000 0.0000 0.0000
+
+newmtl GreenGlass
+        Ns 30.0000
+	Tr 1.000
+	At 0.6300
+        Gl 0.02
+        Kd 0.0000 0.9000 0.0000
+	Ka 0.3500 0.3500 0.3500
+
+
+newmtl BlueGlass
+        Ns 30.0000
+	Tr 1.000
+	At 0.9900
+        Gl 0.02
+        Kd 0.8000 0.8000 0.8000
+	Ka 0.3500 0.3500 0.3500
+
+newmtl RedGlass
+        Ns 30.0000
+	Tr 0.800
+	At 0.9800
+        Gl 0.02
+        Kd 0.0000 0.7400 1.0000
+	Ka 0.3500 0.3500 0.3500
+
+newmtl WindowGlass
+        Ns 30.0000
+	Tr 1.000
+	At 0.9000
+        Gl 0.002
+        Kd 0.8000 0.8000 0.8000
+	Ka 0.3500 0.3500 0.3500
+
+newmtl WhiteGlass
+        Ns 30.0000
+	Tr 1.000
+	At 0.8500
+        Gl 0.02
+        Kd 0.8000 0.8000 0.8000
+	Ka 0.3500 0.3500 0.3500
+
+newmtl BumpedGlass
+        Ns 30.0000
+	Tr 1.000
+	At 0.6300
+        Ka 0.0000 0.0000 0.0000
+	Kd 0.3720 0.6190 0.6270
+        bump bump_glass2.jpg
+
+newmtl PatternGlass
+        Ns 30.0000
+	Tr 1.000
+	At 0.6300
+        Ka 0.0000 0.0000 0.0000
+	Kd 0.3720 0.6190 0.6270
+        bump bump_glass1.jpg
+
+newmtl Wood
+        Ns 20.0
+        Ks 0.000 0.000 0.000
+        Kd 0.950 0.950 0.950
+        map_Kd wood.jpg
+
+newmtl Stone
+        Kd 0.9500 0.9500 0.950
+        map_Kd marble.jpg
+
+newmtl Wall
+        Ka 0.800 0.800 0.800
+        Kd 0.9300 0.930 0.9300
+        
+newmtl Metal
+        Ns 50.00
+        mirror 0.5000
+        Gl 0.12
+        Kd 0.7000 0.7000 0.7000
+	Ka 0.3500 0.3500 0.3500
+        map_Kd scratched_metal.jpg
+        bump bump_scratched_metal.jpg
+

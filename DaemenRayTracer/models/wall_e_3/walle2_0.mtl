@@ -1,0 +1,262 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2006 Google, Inc.
+
+newmtl Material7
+Kd 0.658824 0.521569 0.403922
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material7.jpg
+bump walle2_0/bump_Material7.jpg
+
+
+newmtl _Color_000_1
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+mirror 0.7
+Gl 0.15
+map_Kd walle2_0/stainless-steel-texture.jpg
+bump walle2_0/bump_Metal_Seamed.jpg
+
+newmtl Color_002
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+mirror 0.7
+Gl 0.15
+map_Kd walle2_0/stainless-steel-texture.jpg
+bump walle2_0/bump_Metal_Seamed.jpg
+
+newmtl Color_001
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+mirror 0.7
+Gl 0.15
+map_Kd walle2_0/stainless-steel-texture.jpg
+bump walle2_0/bump_Metal_Seamed.jpg
+
+newmtl _Color_002_1
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+mirror 0.7
+Gl 0.15
+map_Kd walle2_0/stainless-steel-texture.jpg
+bump walle2_0/bump_Metal_Seamed.jpg
+
+newmtl Color_008
+Kd 0.117647 0.117647 0.117647
+Ks 0.000000 0.000000 0.000000
+
+newmtl Color_009
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+
+newmtl Color_005
+Kd 0.447059 0.447059 0.447059
+Ks 0.000000 0.000000 0.000000
+
+
+newmtl Material6
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6.jpg
+bump walle2_0/bump_Material6.jpg
+
+newmtl Groundcover_Sand_Smooth
+Kd 0.713725 0.580392 0.396078
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Groundcover_Sand_Smooth.jpg
+bump walle2_0/bump_Groundcover_Sand_Smooth.jpg
+
+newmtl FrontColor
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+
+newmtl Metal_Seamed
+Kd 0.462745 0.466667 0.450980
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Metal_Seamed.jpg
+bump walle2_0/bump_Metal_Seamed.jpg
+
+newmtl Material4
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.411765 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material4.jpg
+bump walle2_0/bump_Material4.jpg
+
+newmtl Material1
+Kd 0.658824 0.521569 0.403922
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material1.jpg
+bump walle2_0/bump_Material1.jpg
+
+newmtl Material4_1_
+Kd 0.541176 0.411765 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material4_1_.jpg
+bump walle2_0/bump_Material4_1_.jpg
+
+newmtl _Black_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+
+newmtl Material6_1_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_1_.jpg
+bump walle2_0/bump_Material6_1_.jpg
+
+newmtl Material6_2_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_2_.jpg
+bump walle2_0/bump_Material6_2_.jpg
+
+newmtl Material6_3_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_3_.jpg
+bump walle2_0/bump_Material6_3_.jpg
+
+newmtl Material6_4_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_4_.jpg
+bump walle2_0/bump_Material6_4_.jpg
+
+newmtl Material6_5_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_5_.jpg
+bump walle2_0/bump_Material6_5_.jpg
+
+newmtl Material6_6_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_6_.jpg
+bump walle2_0/bump_Material6_6_.jpg
+
+newmtl Material6_7_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_7_.jpg
+bump walle2_0/bump_Material6_7_.jpg
+
+newmtl Material6_8_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_8_.jpg
+bump walle2_0/bump_Material6_8_.jpg
+
+newmtl Material6_9_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_9_.jpg
+bump walle2_0/bump_Material6_9_.jpg
+
+newmtl Material6_10_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_10_.jpg
+bump walle2_0/bump_Material6_10_.jpg
+
+newmtl Material6_11_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_11_.jpg
+bump walle2_0/bump_Material6_11_.jpg
+
+newmtl Material6_12_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_12_.jpg
+
+newmtl Material6_13_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_13_.jpg
+
+newmtl Material6_14_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_14_.jpg
+
+newmtl Material6_15_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_15_.jpg
+
+newmtl Material6_16_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_16_.jpg
+
+newmtl Material6_17_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_17_.jpg
+
+newmtl Material6_18_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_18_.jpg
+
+newmtl Material6_19_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_19_.jpg
+
+newmtl Material6_20_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_20_.jpg
+
+newmtl Material6_21_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_21_.jpg
+
+newmtl Material6_22_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_22_.jpg
+
+newmtl Material6_23_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_23_.jpg
+
+newmtl Material6_24_
+Kd 0.541176 0.466667 0.400000
+Ks 0.000000 0.000000 0.000000
+map_Kd walle2_0/Material6_24_.jpg
+
+newmtl light_power
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+
+newmtl _Color_001_2
+Kd 0.886275 0.886275 0.886275
+Ks 0.000000 0.000000 0.000000
+d 0.000000
+At 0.00
+
+newmtl Color_000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+
+newmtl Translucent_Glass_Gray
+#Kd 0.827451 0.827451 0.827451
+Kd 1.0 0.7 1.0
+Ks 0.000000 0.000000 0.000000
+d 0.200000
+At 0.00
+
+newmtl Material8
+#Kd 0.827451 0.827451 0.827451
+Kd 0.7 0.7 1.0
+Ks 0.000000 0.000000 0.000000
+d 0.200000
+At 0.00
+
+

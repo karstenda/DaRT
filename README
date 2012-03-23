@@ -1,4 +1,3 @@
-
 ##############################################################################
 #                                                                            #
 #       Project: |G0Q66a| Computer Graphics I                                #
@@ -10,10 +9,10 @@
 ##############################################################################
 
 
-This projects contains two projects:
+This projects contains two subprojects:
 
-        => A basic rasteriser
-        => An (advanced) ray tracer
+        => DaemenRasterizer: A basic rasteriser
+        => DaemenRayTracer: A more advanced ray tracer
 
 Much has changed in this software so I don't know if everything still works.
 Nevertheless the written code is handy and can be reused in various projects.

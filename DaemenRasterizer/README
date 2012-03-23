@@ -9,7 +9,7 @@
 ##############################################################################
 
 
-This is a more advanced Raytracing Engine (Second part of the assignment)
+This is a Rasteriser Engine (First part of the assignment)
 
 Much has changed in this project so I don't know if everything still works.
 Nevertheless the written code is handy and can be reused in various projects.

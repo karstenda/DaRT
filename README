@@ -1,0 +1,28 @@
+
+##############################################################################
+#                                                                            #
+#       Project: |G0Q66a| Computer Graphics I                                #
+#                University of Leuven (KUL)                                  #
+#                                                                            #
+#       author: Karsten Daemen                                               #
+#       date: 23-03-2012                                                     #
+#                                                                            #
+##############################################################################
+
+
+This projects contains two projects:
+
+        => A basic rasteriser
+        => An (advanced) ray tracer
+
+Much has changed in this software so I don't know if everything still works.
+Nevertheless the written code is handy and can be reused in various projects.
+
+##############################################################################
+#                                                                            #
+#  This project is currently released under no license, so you may only      #
+#  reuse this code with my explicit permission.                              #
+#                                                                            #
+##############################################################################
+
+

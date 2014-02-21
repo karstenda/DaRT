@@ -12,16 +12,7 @@
 This projects contains two subprojects:
 
         => DaemenRasterizer: A basic rasteriser
-        => DaemenRayTracer: A more advanced ray tracer
+        => DaemenRayTracer: A distributed ray tracing engine.
 
-Much has changed in this software so I don't know if everything still works.
-Nevertheless the written code is handy and can be reused in various projects.
-
-##############################################################################
-#                                                                            #
-#  This project is currently released under no license, so you may only      #
-#  reuse this code with my explicit permission.                              #
-#                                                                            #
-##############################################################################
 
 
